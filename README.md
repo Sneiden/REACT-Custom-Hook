@@ -1,3 +1,3 @@
-# Notas
+# Custom Hooks
 
-Aqui estan mis custom Hooks de react para no tener que escribirlos otra vez! 
+Repositorio de custom Hooks
